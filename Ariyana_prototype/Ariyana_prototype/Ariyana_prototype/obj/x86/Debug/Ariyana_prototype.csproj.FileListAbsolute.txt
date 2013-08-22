@@ -1,0 +1,126 @@
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.exe
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.pdb
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.exe
+c:\users\apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDust.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Ariyana.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreen.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreenBW.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\gameBoard.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\titles.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Audio\SisteViator.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\ArmouredKnight.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Wraith.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\titles.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\PhaseBar.xnb
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustHUD.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.exe
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Wraith.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Ariyana.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreen.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreenBW.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\gameBoard.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\titles.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\ArmouredKnight.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\titles.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\PhaseBar.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDust.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustHUD.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Audio\SisteViator.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.exe
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.exe
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Wraith.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Ariyana.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreen.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreenBW.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\gameBoard.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\titles.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\ArmouredKnight.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\titles.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\PhaseBar.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDust.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustHUD.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Audio\SisteViator.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.exe
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\armored_swordman_attack.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\heal.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\airship_attack.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\shield1.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\armored_swordman_attack.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\heal.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\airship_attack.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\shield1.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.wmv
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\HealthTexture.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\HealthTexture.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.wmv
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustSprite.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustSprite.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\instructions.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\story.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\AriyanaLogo.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\instructions.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\story.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\AriyanaLogo.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.wmv
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.xnb
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.wmv
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Castle.xnb
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Castle.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Ariyana.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\castleScreen.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\gameBoard.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\titles.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\ArmouredKnight.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\titles.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\PhaseBar.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\armored_swordman_attack.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\heal.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\airship_attack.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\shield1.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\HUD\HealthTexture.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Wraith.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\instructions.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\story.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\AriyanaLogo.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\CastleScreenBW.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Textures\Castle.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDust.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustHUD.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Fonts\FairyDustSprite.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Audio\SisteViator.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.xnb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\Intro.wmv
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Content\Cinematics\SplashScreen.wmv
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.exe
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\bin\x86\Debug\Ariyana_prototype.pdb
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.exe
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototype\obj\x86\Debug\Ariyana_prototype.pdb

@@ -1,0 +1,4 @@
+C:\Users\Apoclyps\documents\visual studio 2010\Projects\Ariyana_prototype\Ariyana_prototype\Ariyana_prototypeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototypeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Dropbox\AC31009 - Games Programming\Code\Ariyana_prototype\Ariyana_prototype\Ariyana_prototypeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Apoclyps\Desktop\Ariyana_prototype\Ariyana_prototype\Ariyana_prototypeContent\obj\x86\Debug\ResolveAssemblyReference.cache
