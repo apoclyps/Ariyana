@@ -2,6 +2,8 @@ Ariyana
 ================================
 Description : Developed in XNA for PC using a MVC structure and design patterns.
 
+![Ariyana Cover](https://raw.github.com/apoclyps/Ariyana/master/Screenshots/Ariyana.jpg)
+
 The Big Idea/Concept
 =======================
 Ariyana is a noir style world inspired by the two opposing sides in chess whilst incorporating elements of tower defence and real time strategy elements to provide a unique twist on a traditional game. The boundaries between black and white blur drastically when good must verse evil in the ultimate showdown where only one side can claim victory of the war and rule the land!
